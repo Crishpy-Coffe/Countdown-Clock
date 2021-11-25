@@ -10,8 +10,8 @@
     display: grid;
     height: 100vh;
     place-items: center;
-/*     background: url('bg_img.jpg'); */
-    background: url('https://i.pinimg.com/564x/81/12/93/81129364fd7b2a5ee4b302d55f4736ce.jpg');
+    background: url('bg_img.png');
+/*     background: url('https://i.pinimg.com/564x/81/12/93/81129364fd7b2a5ee4b302d55f4736ce.jpg'); */
     background-size: cover;
     background-position: center;
 }
